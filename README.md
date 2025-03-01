@@ -29,8 +29,9 @@ Some of their application features which I noticed were:
 - I analysed the data they have shown on their website as well as their app and created a small dataset for a single day. 
   
 - I created the database on MySQL and defined a schema structure to explain how the company might receive and collect data for each customer and driver through their app.
+  
+![Database Schema](https://raw.githubusercontent.com/naninsv/Namma-Yatri/main/Imp%20images/Datamodel.png)
 
-![Database_Schema](https://github.com/Ayan-OP/Namma-Yatri/blob/main/Imp%20images/Database_schema.png)
 
 - I analysed the data collected and extracted various KPIs and trends in the data. The analysis can be found in the following SQL report:
   >SQL Report Link -> https://github.com/Ayan-OP/Namma-Yatri/blob/main/SQL%20Files/Data_Exploration.sql
@@ -39,17 +40,20 @@ Some of their application features which I noticed were:
 
 ## Overall Analytics Report
 
-![Analyst_Report](https://github.com/Ayan-OP/Namma-Yatri/blob/main/Imp%20images/%231.png)
+![First Report](https://raw.githubusercontent.com/naninsv/Namma-Yatri/main/Imp%20images/%231.png)
+
 
 
 ## Trip Details Report
 
-![Employee_Details](https://github.com/Ayan-OP/Namma-Yatri/blob/main/Imp%20images/%232.png)
+![Second Report](https://raw.githubusercontent.com/naninsv/Namma-Yatri/main/Imp%20images/%232.png)
+
 
 
 ## Data Model
 
-![Data_Model](https://github.com/Ayan-OP/Namma-Yatri/blob/main/Imp%20images/%233.png)
+![Data Model](https://raw.githubusercontent.com/naninsv/Namma-Yatri/main/Imp%20images/%233.png)
+
 
 
 ## License
