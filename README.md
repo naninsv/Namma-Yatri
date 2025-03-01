@@ -34,7 +34,8 @@ Some of their application features which I noticed were:
 
 
 - I analysed the data collected and extracted various KPIs and trends in the data. The analysis can be found in the following SQL report:
-  >SQL Report Link -> https://github.com/Ayan-OP/Namma-Yatri/blob/main/SQL%20Files/Data_Exploration.sql
+  >SQL Report Link [SQL Report - Data Exploration](https://github.com/naninsv/Namma-Yatri/blob/main/SQL%20Files/Data_Exploration.sql)
+
 - Finally I created an interactive and dynamic Tableau Dashboard based on the data I analyzed and tried to replicate similar to what they have shown on their website.
 
 
